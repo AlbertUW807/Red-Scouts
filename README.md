@@ -1,7 +1,5 @@
 # Red-Scouts
 
-# Suduko-Solver
-
 ## Description:
 Our Inspiration is to help ill people reach out to their fellow peers in order to discuss their medical concerns
 in a safe-relatable space. We built the front-end of the website app with bootstrap and php5.
